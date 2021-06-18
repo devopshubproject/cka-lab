@@ -7,3 +7,8 @@ o	The availability of service hi can be checked using the following command, whi
 o	curl -kL <INTERNAL_IP>/hi 
 o	The availability of service test can be checked using the following command, which should return test 
 o	curl -kL <INTERNAL_IP>/test 
+
+
+
+
+____WORKINPROGESS!!!!

@@ -5,3 +5,8 @@ c. The communication from and to the pods running on port 9200
 d. No pods running on port 9200 from other name spaces to allowed 
 
 NB: There will be a default deny all from any namespace netpol will be already present.
+
+
+
+
+____WORKINPROGESS!!!!

@@ -4,3 +4,8 @@ The container shares the volume logs with the application container the mounts t
 Do not alter the application container and verify the logs are written properly to the file 
 
 looging-pod primary container logger does not write to any volumes, you need to create a volume from empty dir and mount it appropriately. 
+
+
+
+
+____WORKINPROGESS!!!!
