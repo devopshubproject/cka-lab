@@ -31,7 +31,7 @@ I have created 25 task along with solutions for all the questions. I would highl
 
 Pls feel free to poke if you find any mistake or if you know any other better way to solve the questions.
 
-[<img src="./readme/images/cka-logo.png" align="right" width="150" height="150">]
+<img src="./readme/images/cka-logo.png" align="right" width="150" height="150">
 
 
 # Follow-Me
