@@ -1,0 +1,1 @@
+Schedule a pod as follows Name :- nginx-kusc000101 image :- nginx Node Selector :-  disk=ssd. 

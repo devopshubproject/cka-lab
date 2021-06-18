@@ -1,0 +1,1 @@
+Scale the deployment learning to 3 pods.

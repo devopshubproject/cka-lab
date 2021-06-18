@@ -1,0 +1,1 @@
+Creae a persistent volume with name my-vol of capacity 10Gi and access mode ReadWriteOnce. The type of volume is hostPath and its location is /test/path

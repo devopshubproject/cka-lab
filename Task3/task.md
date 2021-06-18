@@ -1,0 +1,1 @@
+From the pod label name=cpu-burner, find pods running high CPU workloads and Write the name of the pod consuming most CPU to the file /tmp/cpu.txt. 

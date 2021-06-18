@@ -1,0 +1,1 @@
+Monitor the logs of pod loggy and extract log lines issue-not-found. Write the output to /tmp/pod.txt. 
