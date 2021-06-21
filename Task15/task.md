@@ -40,8 +40,7 @@ status: {}
 ```
 
 
-From the Pod label name:cpu-utilizer, find pods running high CPU workloads and write the name of the Pod consuming most CPU to the file /opt/cpu.txt (which already exists)
-
+From the Pod label name:cpu-utilizer, find pods running high CPU workloads and write the name of the Pod consuming most CPU to the file /opt/cpu.txt
 
 ```
 $ kubectl top pods -l name=cpu-utilizer -n kube-system

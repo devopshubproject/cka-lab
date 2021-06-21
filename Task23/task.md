@@ -1,5 +1,4 @@
-Create a custom scheduler. Added create a new pod and schedule using custom scheduler
+Create a custom scheduler. Added create a new pod and schedule it using custom scheduler
 
-
-
-____WORKINPROGESS!!!!
+Name: custom-scheduler
+Namespace: kube-system

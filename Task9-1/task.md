@@ -1,3 +1,5 @@
+Create a deployment and perform rollback.
+
 Name: nginx
 Using container nginx with version 1.11-alpine
 The deployment should contain 3 replicas
