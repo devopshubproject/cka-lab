@@ -4,9 +4,7 @@ metadata:
   name: k8s-netpol
   namespace: namespace-netpol
 spec:
-  podSelector:
-    matchLabels:
-      run: netpol-tesing
+  podSelector: {}
   policyTypes:
   - Ingress
   - Egress
