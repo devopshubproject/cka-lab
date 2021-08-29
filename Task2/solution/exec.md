@@ -15,8 +15,8 @@ $ kubectl create clusterrole new-cluster-role --verb=create,list --resource=daem
 
 
 Verification:
-$ kubectl create clusterrolebinding new-cluster-role-binding --clusterrole=new-cluster-role --serviceaccount=default:my-sa  -n my-ns --dry-run -o yaml
+$ kubectl create clusterrolebinding new-cluster-role-binding --clusterrole=new-cluster-role --serviceaccount=my-ns:my-sa  -n my-ns --dry-run -o yaml
 
 To create ClusterRoleBinding
-$  kubectl create clusterrolebinding new-cluster-role-binding --clusterrole=new-cluster-role --serviceaccount=default:my-sa -n my-ns
+$  kubectl create clusterrolebinding new-cluster-role-binding --clusterrole=new-cluster-role --serviceaccount=my-ns:my-sa -n my-ns
 ```
